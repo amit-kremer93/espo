@@ -8,6 +8,6 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "bundleIdentifier": "com.expo.amitexpo"
+    "bundleIdentifier": "com.expotest.abcdtest"
   }
 }

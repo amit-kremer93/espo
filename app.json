@@ -1,0 +1,12 @@
+{
+  "name": "amitexpo",
+  "displayName": "amitexpo",
+  "expo": {
+    "name": "amitexpo",
+    "slug": "amitexpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -317,7 +317,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.expotest.abcdtest;
 				PRODUCT_NAME = amitexpo;
-				PROVISIONING_PROFILE_SPECIFIER = "expo-test";
+				PROVISIONING_PROFILE_SPECIFIER = "**Expotest.AF**";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -345,7 +345,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.expotest.abcdtest;
 				PRODUCT_NAME = amitexpo;
-				PROVISIONING_PROFILE_SPECIFIER = "expo-test";
+				PROVISIONING_PROFILE_SPECIFIER = "**Expotest.AF**";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
